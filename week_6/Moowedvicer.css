@@ -1,0 +1,19 @@
+#style {
+    display: block;
+    background: #42033D;
+}
+
+#submitInfo {
+    background: #B33951;
+    border-radius: 10px;
+    color: black;
+}
+
+#postcard {
+    height: 405px;
+}
+
+#annaSize {
+    height: 405px;
+}
+
